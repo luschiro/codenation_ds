@@ -1,2 +1,3 @@
-# codenation-DS
-Code related to the Data Science AceleraDev program from Codenation. 
+# Codenation - AceleraDev DataScience
+
+Aqui serão apresentados os exercícios, desafios e projetos relativos à aceleração em DS da Codenation.
